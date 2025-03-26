@@ -8,7 +8,7 @@
       "light": "plante de lumière",
       "category": "plante d'intérieur",
       "maintenance": "difficile d'entretien",
-      "image": "https://www.pexels.com/fr-fr/photo/centrale-plante-feuilles-botanique-5606124/"
+      "image": "https://images.pexels.com/photos/5606124/pexels-photo-5606124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "light": "plante de lumière",
       "category": "plante d'intérieur",
       "maintenance": "facile d'entretien",
-      "image": "https://www.pexels.com/fr-fr/photo/derriere-les-feuilles-12456043/"
+      "image": "https://images.pexels.com/photos/12456043/pexels-photo-12456043.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "light": "plante d'ombre",
       "category": "plante d'intérieur",
       "maintenance": "facile d'entretien",
-      "image": "https://www.pexels.com/fr-fr/photo/photo-de-l-usine-de-serpent-vert-2123482/"
+      "image": "https://images.pexels.com/photos/2123482/pexels-photo-2123482.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "light": "plante de lumière",
       "category": "cactus",
       "maintenance": "facile d'entretien",
-      "image": "https://www.pexels.com/fr-fr/photo/cactus-937799/"
+      "image": "https://images.pexels.com/photos/937799/pexels-photo-937799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "light": "plante de lumière",
       "category": "succulente",
       "maintenance": "facile d'entretien",
-      "image": "https://pixabay.com/fr/photos/aloe-vera-vert-%C3%A0-base-de-plantes-2559701/"
+      "image": "https://cdn.pixabay.com/photo/2017/07/31/18/16/aloe-vera-2559701_1280.jpg"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "light": "plante de lumière",
       "category": "plante d'intérieur",
       "maintenance": "facile d'entretien",
-      "image": "https://pixabay.com/fr/photos/pilea-plante-vert-feuilles-3852265/"
+      "image": "https://cdn.pixabay.com/photo/2018/12/02/21/41/pilea-3852265_1280.jpg"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "light": "plante d'ombre",
       "category": "plante d'intérieur",
       "maintenance": "difficile d'entretien",
-      "image": "https://pixabay.com/fr/photos/plante-dappartement-dracena-4832361/"
+      "image": "https://cdn.pixabay.com/photo/2020/02/09/08/44/houseplant-4832361_1280.jpg"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "light": "plante d'ombre",
       "category": "plante d'intérieur",
       "maintenance": "difficile d'entretien",
-      "image": "https://pixabay.com/fr/photos/feuilles-plantes-vert-6954641/"
+      "image": "https://cdn.pixabay.com/photo/2022/01/21/12/04/leaves-6954641_1280.jpg"
     },
       {
         "id": 9,
@@ -88,7 +88,7 @@
         "light": "plante de lumière",
         "category": "plante d'intérieur",
         "maintenance": "facile d'entretien",
-        "image": "https://pixabay.com/fr/photos/chlorophytum-plantes-%C3%A0-feuillage-4591213/"
+        "image": "https://cdn.pixabay.com/photo/2019/10/31/07/35/chlorophytum-4591213_1280.jpg/"
       },
       {
         "id": 10,
@@ -98,7 +98,7 @@
         "light": "plante de lumière",
         "category": "plante d'intérieur",
         "maintenance": "facile d'entretien",
-        "image": "https://pixabay.com/fr/photos/friedenslilien-plantes-dornement-4269365/"
+        "image": "https://cdn.pixabay.com/photo/2019/06/12/14/14/peace-lilies-4269365_1280.jpg"
       },
       {
         "id": 11,
@@ -108,7 +108,7 @@
         "light": "plante de lumière",
         "category": "plante d'extérieur",
         "maintenance": "facile d'entretien",
-        "image": "https://pixabay.com/fr/photos/lavande-fleur-fleurs-4765498/"
+        "image": "https://cdn.pixabay.com/photo/2020/01/14/16/26/lavender-4765498_1280.jpg"
       },
       {
         "id": 12,
@@ -118,7 +118,7 @@
         "light": "plante de lumière",
         "category": "plante d'extérieur",
         "maintenance": "difficile d'entretien",
-        "image": "https://pixabay.com/fr/photos/jasminum-jasmin-la-nature-5092158/"
+        "image": "https://cdn.pixabay.com/photo/2020/04/25/18/51/jasminum-5092158_1280.jpg"
       },
       {
         "id": 13,
@@ -128,7 +128,7 @@
         "light": "plante de lumière",
         "category": "plante d'extérieur",
         "maintenance": "difficile d'entretien",
-        "image": "https://pixabay.com/fr/photos/hibiscus-fleur-mauve-p%C3%A9tales-fleur-5965145/"
+        "image": "https://cdn.pixabay.com/photo/2021/01/30/19/42/hibiscus-5965145_1280.jpg"
       },
       {
         "id": 14,
@@ -138,7 +138,7 @@
         "light": "plante de lumière",
         "category": "plante d'extérieur",
         "maintenance": "difficile d'entretien",
-        "image": "https://pixabay.com/fr/photos/rose-p%C3%A9tales-bourgeon-rosier-7860008/"
+        "image": "https://cdn.pixabay.com/photo/2023/03/18/06/53/rose-7860008_1280.jpg"
       },
       {
         "id": 15,
@@ -148,7 +148,7 @@
         "light": "plante de lumière",
         "category": "plante d'extérieur",
         "maintenance": "facile d'entretien",
-        "image": "https://pixabay.com/fr/photos/bambou-vert-la-nature-plante-3006747/"
+        "image": "https://cdn.pixabay.com/photo/2017/12/08/21/14/bamboo-3006747_1280.jpg"
       },
       {
         "id": 16,
@@ -158,7 +158,7 @@
         "light": "plante de lumière",
         "category": "plante d'extérieur",
         "maintenance": "facile d'entretien",
-        "image": "https://pixabay.com/fr/photos/geranium-fleur-fleur-de-jardin-1450083/"
+        "image": "https://cdn.pixabay.com/photo/2016/06/11/12/58/cranesbill-1450083_1280.jpg"
       },
       {
         "id": 17,
@@ -168,7 +168,7 @@
         "light": "plante de lumière",
         "category": "plante d'extérieur",
         "maintenance": "facile d'entretien",
-        "image": "https://pixabay.com/fr/photos/p%C3%A9tunia-fleur-p%C3%A9tunia-4497585/"
+        "image": "https://cdn.pixabay.com/photo/2019/09/23/05/40/petunia-4497585_1280.jpg"
       },
       {
         "id": 18,
@@ -178,7 +178,7 @@
         "light": "plante de lumière",
         "category": "plante d'extérieur",
         "maintenance": "facile d'entretien",
-        "image": "https://pixabay.com/fr/photos/lavande-fleurs-de-lavande-mauve-167794/"
+        "image": "https://cdn.pixabay.com/photo/2013/07/26/16/25/lavender-167794_1280.jpg"
       },
       {
         "id": 19,
@@ -188,7 +188,7 @@
         "light": "plante de lumière",
         "category": "plante d'extérieur",
         "maintenance": "facile d'entretien",
-        "image": "https://pixabay.com/fr/photos/s%C3%A9ne%C3%A7on-flou-blanc-plante-feuilles-223052/"
+        "image": "https://cdn.pixabay.com/photo/2013/12/03/14/52/white-fuzzy-groundsel-223052_1280.jpg"
       },
       {
         "id": 20,
@@ -198,7 +198,7 @@
         "light": "plante d'ombre",
         "category": "plante d'extérieur",
         "maintenance": "facile d'entretien",
-        "image": "https://pixabay.com/fr/photos/fushia-fushia-rouge-floraison-3680172/"
+        "image": "https://cdn.pixabay.com/photo/2018/09/15/19/41/fushia-3680172_1280.jpg"
       }
     ]
   }
