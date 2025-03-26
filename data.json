@@ -1,0 +1,205 @@
+{
+    "plants": [
+    {
+      "id": 1,
+      "name": "Ficus lyrata",
+      "description": "Le Ficus lyrata, ou figuier lyre, est originaire des forêts tropicales d'Afrique de l'Ouest. Il est apprécié pour ses grandes feuilles vert foncé en forme de lyre. Cette plante nécessite une lumière indirecte vive et un arrosage modéré. Elle aide à purifier l'air intérieur en absorbant les toxines présentes dans l'environnement.",
+      "size": { "small": 25, "large": 50 },
+      "light": "plante de lumière",
+      "category": "plante d'intérieur",
+      "maintenance": "difficile d'entretien",
+      "image": "https://www.pexels.com/fr-fr/photo/centrale-plante-feuilles-botanique-5606124/"
+    },
+    {
+      "id": 2,
+      "name": "Monstera deliciosa",
+      "description": "Aussi appelée faux philodendron, la Monstera deliciosa est une plante tropicale originaire des forêts humides d'Amérique centrale. Ses grandes feuilles perforées lui permettent d'optimiser la lumière en milieu naturel. Elle apprécie un sol légèrement humide et un taux d'humidité élevé, parfait pour apporter une touche exotique à un intérieur.",
+      "size": { "small": 30, "large": 60 },
+      "light": "plante de lumière",
+      "category": "plante d'intérieur",
+      "maintenance": "facile d'entretien",
+      "image": "https://www.pexels.com/fr-fr/photo/derriere-les-feuilles-12456043/"
+    },
+    {
+      "id": 3,
+      "name": "Sansevieria",
+      "description": "Surnommée 'langue de belle-mère', la Sansevieria est une plante robuste originaire d'Afrique de l'Ouest. Elle est réputée pour sa capacité à tolérer des conditions de lumière variées et ses besoins en eau très faibles. Idéale pour les débutants, elle purifie également l'air en absorbant les toxines comme le benzène et le formaldéhyde.",
+      "size": { "small": 20, "large": 45 },
+      "light": "plante d'ombre",
+      "category": "plante d'intérieur",
+      "maintenance": "facile d'entretien",
+      "image": "https://www.pexels.com/fr-fr/photo/photo-de-l-usine-de-serpent-vert-2123482/"
+    },
+    {
+      "id": 4,
+      "name": "Cactus Euphorbia",
+      "description": "L'Euphorbia est un cactus fascinant, originaire d'Afrique et de Madagascar. Avec ses tiges épaisses et épineuses, il stocke l'eau pour survivre en milieu aride. Très résistant, il nécessite peu d'entretien et ajoute une touche exotique aux intérieurs.",
+      "size": { "small": 15, "large": 40 },
+      "light": "plante de lumière",
+      "category": "cactus",
+      "maintenance": "facile d'entretien",
+      "image": "https://www.pexels.com/fr-fr/photo/cactus-937799/"
+    },
+    {
+      "id": 5,
+      "name": "Aloe Vera",
+      "description": "L'Aloe Vera est une plante succulente aux propriétés médicinales exceptionnelles. Son gel est utilisé pour soigner les brûlures, hydrater la peau et favoriser la cicatrisation. Elle s'adapte facilement aux climats secs et nécessite peu d'arrosage.",
+      "size": { "small": 18, "large": 38 },
+      "light": "plante de lumière",
+      "category": "succulente",
+      "maintenance": "facile d'entretien",
+      "image": "https://pixabay.com/fr/photos/aloe-vera-vert-%C3%A0-base-de-plantes-2559701/"
+    },
+    {
+      "id": 6,
+      "name": "Pilea Peperomioides",
+      "description": "Le Pilea Peperomioides, ou plante à monnaie chinoise, est une plante d'intérieur au feuillage rond et brillant. Elle est appréciée pour son aspect décoratif et sa facilité d'entretien. Elle préfère une lumière vive sans soleil direct et un arrosage modéré.",
+      "size": { "small": 22, "large": 44 },
+      "light": "plante de lumière",
+      "category": "plante d'intérieur",
+      "maintenance": "facile d'entretien",
+      "image": "https://pixabay.com/fr/photos/pilea-plante-vert-feuilles-3852265/"
+    },
+    {
+      "id": 7,
+      "name": "Dracaena Marginata",
+      "description": "Plante élégante au feuillage fin et dressé, le Dracaena Marginata est originaire de Madagascar. Elle est idéale pour purifier l'air intérieur et supporte bien les environnements secs. Cependant, elle nécessite une lumière indirecte et un arrosage modéré.",
+      "size": { "small": 27, "large": 50 },
+      "light": "plante d'ombre",
+      "category": "plante d'intérieur",
+      "maintenance": "difficile d'entretien",
+      "image": "https://pixabay.com/fr/photos/plante-dappartement-dracena-4832361/"
+    },
+    {
+      "id": 8,
+      "name": "Calathea Orbifolia",
+      "description": "Avec ses feuilles larges et nervurées, la Calathea Orbifolia apporte une touche décorative unique. Elle aime l'humidité et un éclairage tamisé, ce qui la rend idéale pour les pièces peu lumineuses. Elle nécessite un arrosage régulier et un environnement sans courants d'air.",
+      "size": { "small": 32, "large": 55 },
+      "light": "plante d'ombre",
+      "category": "plante d'intérieur",
+      "maintenance": "difficile d'entretien",
+      "image": "https://pixabay.com/fr/photos/feuilles-plantes-vert-6954641/"
+    },
+      {
+        "id": 9,
+        "name": "Chlorophytum Comosum",
+        "description": "Aussi appelée plante araignée, cette plante est facile d'entretien et très résistante. Elle est connue pour purifier l'air en éliminant le monoxyde de carbone et autres polluants. Elle s'adapte bien à différentes conditions de lumière et pousse rapidement.",
+        "size": { "small": 19, "large": 39 },
+        "light": "plante de lumière",
+        "category": "plante d'intérieur",
+        "maintenance": "facile d'entretien",
+        "image": "https://pixabay.com/fr/photos/chlorophytum-plantes-%C3%A0-feuillage-4591213/"
+      },
+      {
+        "id": 10,
+        "name": "Spathiphyllum",
+        "description": "Le 'Lys de la paix' est une plante d'intérieur très populaire grâce à ses fleurs blanches élégantes et sa capacité à purifier l'air. Elle préfère des conditions lumineuses sans soleil direct et un sol légèrement humide.",
+        "size": { "small": 28, "large": 52 },
+        "light": "plante de lumière",
+        "category": "plante d'intérieur",
+        "maintenance": "facile d'entretien",
+        "image": "https://pixabay.com/fr/photos/friedenslilien-plantes-dornement-4269365/"
+      },
+      {
+        "id": 11,
+        "name": "Lavande",
+        "description": "La lavande est une plante aromatique au parfum agréable, souvent utilisée dans les jardins pour repousser les insectes. Elle préfère une exposition en plein soleil et un sol bien drainé. Elle est idéale pour les zones sèches et ensoleillées.",
+        "size": { "small": 15, "large": 35 },
+        "light": "plante de lumière",
+        "category": "plante d'extérieur",
+        "maintenance": "facile d'entretien",
+        "image": "https://pixabay.com/fr/photos/lavande-fleur-fleurs-4765498/"
+      },
+      {
+        "id": 12,
+        "name": "Jasmin",
+        "description": "Le jasmin est une plante grimpante aux fleurs parfumées, parfaite pour ajouter de l'odeur et de la beauté dans les jardins. Il préfère un sol léger et bien drainé, ainsi qu'un emplacement ensoleillé pour une floraison optimale.",
+        "size": { "small": 25, "large": 50 },
+        "light": "plante de lumière",
+        "category": "plante d'extérieur",
+        "maintenance": "difficile d'entretien",
+        "image": "https://pixabay.com/fr/photos/jasminum-jasmin-la-nature-5092158/"
+      },
+      {
+        "id": 13,
+        "name": "Hibiscus",
+        "description": "L'hibiscus est une plante tropicale appréciée pour ses magnifiques fleurs colorées. Il a besoin d'un sol bien drainé, d'un arrosage régulier et d'une exposition au soleil pour bien fleurir.",
+        "size": { "small": 30, "large": 60 },
+        "light": "plante de lumière",
+        "category": "plante d'extérieur",
+        "maintenance": "difficile d'entretien",
+        "image": "https://pixabay.com/fr/photos/hibiscus-fleur-mauve-p%C3%A9tales-fleur-5965145/"
+      },
+      {
+        "id": 14,
+        "name": "Rosier",
+        "description": "Les rosiers sont des arbustes fleuris classiques, idéal pour les jardins et les bacs extérieurs. Ils nécessitent un sol fertile, un arrosage modéré et une exposition au soleil pour favoriser leur floraison.",
+        "size": { "small": 28, "large": 55 },
+        "light": "plante de lumière",
+        "category": "plante d'extérieur",
+        "maintenance": "difficile d'entretien",
+        "image": "https://pixabay.com/fr/photos/rose-p%C3%A9tales-bourgeon-rosier-7860008/"
+      },
+      {
+        "id": 15,
+        "name": "Bambou",
+        "description": "Le bambou est une plante résistante, souvent utilisée pour former des haies ou comme plante d'accent. Il aime les endroits lumineux et humides, et est idéal pour ajouter de la verdure dans un jardin ou un intérieur.",
+        "size": { "small": 35, "large": 70 },
+        "light": "plante de lumière",
+        "category": "plante d'extérieur",
+        "maintenance": "facile d'entretien",
+        "image": "https://pixabay.com/fr/photos/bambou-vert-la-nature-plante-3006747/"
+      },
+      {
+        "id": 16,
+        "name": "Geranium",
+        "description": "Le géranium est une plante vivace populaire, souvent cultivée pour ses fleurs colorées. Il préfère un sol bien drainé et une exposition au soleil pour fleurir abondamment.",
+        "size": { "small": 20, "large": 45 },
+        "light": "plante de lumière",
+        "category": "plante d'extérieur",
+        "maintenance": "facile d'entretien",
+        "image": "https://pixabay.com/fr/photos/geranium-fleur-fleur-de-jardin-1450083/"
+      },
+      {
+        "id": 17,
+        "name": "Petunia",
+        "description": "Les pétunias sont des plantes annuelles qui apportent une explosion de couleurs dans les jardins. Elles ont besoin d'un sol bien drainé, d'un arrosage modéré et d'une exposition en plein soleil.",
+        "size": { "small": 15, "large": 40 },
+        "light": "plante de lumière",
+        "category": "plante d'extérieur",
+        "maintenance": "facile d'entretien",
+        "image": "https://pixabay.com/fr/photos/p%C3%A9tunia-fleur-p%C3%A9tunia-4497585/"
+      },
+      {
+        "id": 18,
+        "name": "Lavandula angustifolia",
+        "description": "Lavandula angustifolia, ou lavande vraie, est très appréciée pour son parfum enivrant et ses fleurs violettes. Elle est idéale pour les jardins ensoleillés et résiste bien à la chaleur et à la sécheresse.",
+        "size": { "small": 18, "large": 40 },
+        "light": "plante de lumière",
+        "category": "plante d'extérieur",
+        "maintenance": "facile d'entretien",
+        "image": "https://pixabay.com/fr/photos/lavande-fleurs-de-lavande-mauve-167794/"
+      },
+      {
+        "id": 19,
+        "name": "Cineraria",
+        "description": "La cineraria est une plante vivace aux fleurs éclatantes de couleurs, idéale pour les jardins d'hiver. Elle aime les endroits lumineux mais à l'abri du soleil direct.",
+        "size": { "small": 25, "large": 50 },
+        "light": "plante de lumière",
+        "category": "plante d'extérieur",
+        "maintenance": "facile d'entretien",
+        "image": "https://pixabay.com/fr/photos/s%C3%A9ne%C3%A7on-flou-blanc-plante-feuilles-223052/"
+      },
+      {
+        "id": 20,
+        "name": "Fuchsia",
+        "description": "Le fuchsia est une plante aux fleurs pendantes et colorées, idéale pour les jardins ombragés. Elle aime les sols frais et un emplacement à l'ombre ou en lumière indirecte.",
+        "size": { "small": 20, "large": 45 },
+        "light": "plante d'ombre",
+        "category": "plante d'extérieur",
+        "maintenance": "facile d'entretien",
+        "image": "https://pixabay.com/fr/photos/fushia-fushia-rouge-floraison-3680172/"
+      }
+    ]
+  }
+  
