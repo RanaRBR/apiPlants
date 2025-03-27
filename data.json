@@ -8,7 +8,7 @@
       "light": "plante de lumière",
       "category": "plante d'intérieur",
       "maintenance": "difficile d'entretien",
-      "image": "https://images.pexels.com/photos/5606124/pexels-photo-5606124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "image": "https://images.pexels.com/photos/22610783/pexels-photo-22610783/free-photo-of-feuilles-interieur-croissance-plante-en-pot.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "light": "plante de lumière",
       "category": "plante d'intérieur",
       "maintenance": "facile d'entretien",
-      "image": "https://images.pexels.com/photos/12456043/pexels-photo-12456043.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "image": "https://cdn.pixabay.com/photo/2023/11/12/16/46/monstera-deliciosa-8383432_1280.jpg"
     },
     {
       "id": 3,
@@ -98,7 +98,7 @@
         "light": "plante de lumière",
         "category": "plante d'intérieur",
         "maintenance": "facile d'entretien",
-        "image": "https://cdn.pixabay.com/photo/2019/06/12/14/14/peace-lilies-4269365_1280.jpg"
+        "image": "https://cdn.pixabay.com/photo/2019/06/08/18/55/vaginal-sheet-4260810_1280.jpg"
       },
       {
         "id": 11,
@@ -142,14 +142,15 @@
       },
       {
         "id": 15,
-        "name": "Bambou",
-        "description": "Le bambou est une plante résistante, souvent utilisée pour former des haies ou comme plante d'accent. Il aime les endroits lumineux et humides, et est idéal pour ajouter de la verdure dans un jardin ou un intérieur.",
-        "size": { "small": 35, "large": 70 },
-        "light": "plante de lumière",
-        "category": "plante d'extérieur",
-        "maintenance": "facile d'entretien",
-        "image": "https://cdn.pixabay.com/photo/2017/12/08/21/14/bamboo-3006747_1280.jpg"
+        "name": "Fitonia",
+        "description": "La Fitonia est une plante tropicale aux feuilles nervurées distinctives, idéale pour apporter une touche de couleur en intérieur. Elle préfère une atmosphère humide et un éclairage tamisé.",
+        "size": { "small": 20, "large": 40 },
+        "light": "plante d'ombre",
+        "category": "plante d'intérieur",
+        "maintenance": "exigeante",
+        "image": "https://cdn.pixabay.com/photo/2020/04/16/04/35/fittonia-5048998_1280.jpg"
       },
+      
       {
         "id": 16,
         "name": "Geranium",
@@ -182,14 +183,15 @@
       },
       {
         "id": 19,
-        "name": "Cineraria",
-        "description": "La cineraria est une plante vivace aux fleurs éclatantes de couleurs, idéale pour les jardins d'hiver. Elle aime les endroits lumineux mais à l'abri du soleil direct.",
-        "size": { "small": 25, "large": 50 },
+        "name": "Passiflore",
+        "description": "La passiflore est une plante grimpante exotique aux fleurs spectaculaires et parfumées, appréciée pour son feuillage dense et sa croissance rapide. Idéale pour couvrir un treillis, une pergola ou une clôture, elle apporte une touche tropicale aux jardins. Ses fleurs complexes, aux couleurs vibrantes et aux formes fascinantes, attirent les pollinisateurs comme les abeilles et les papillons. Elle produit également des fruits comestibles, appelés fruits de la passion, riches en saveur et en nutriments. La passiflore préfère les endroits ensoleillés avec un sol bien drainé et nécessite un arrosage régulier sans excès.",
+        "size": { "small": 50, "large": 200 },
         "light": "plante de lumière",
         "category": "plante d'extérieur",
-        "maintenance": "facile d'entretien",
-        "image": "https://cdn.pixabay.com/photo/2013/12/03/14/52/white-fuzzy-groundsel-223052_1280.jpg"
+        "maintenance": "entretien modéré",
+        "image": "https://cdn.pixabay.com/photo/2016/11/17/16/02/passionflower-1831907_1280.jpg"
       },
+      
       {
         "id": 20,
         "name": "Fuchsia",
