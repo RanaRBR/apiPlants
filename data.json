@@ -38,7 +38,7 @@
       "light": "plante de lumière",
       "category": "cactus",
       "maintenance": "facile d'entretien",
-      "image": "https://images.pexels.com/photos/937799/pexels-photo-937799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "image": "https://cdn.pixabay.com/photo/2014/07/05/01/10/canarian-spurge-384414_1280.jpg"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "light": "plante de lumière",
       "category": "succulente",
       "maintenance": "facile d'entretien",
-      "image": "https://cdn.pixabay.com/photo/2017/07/31/18/16/aloe-vera-2559701_1280.jpg"
+      "image": "https://cdn.pixabay.com/photo/2017/08/11/15/47/aloe-vera-2631853_1280.jpg"
     },
     {
       "id": 6,
@@ -178,7 +178,7 @@
         "light": "plante de lumière",
         "category": "plante d'extérieur",
         "maintenance": "facile d'entretien",
-        "image": "https://cdn.pixabay.com/photo/2013/07/26/16/25/lavender-167794_1280.jpg"
+        "image": "https://cdn.pixabay.com/photo/2018/06/20/00/09/flowers-3485500_1280.jpg"
       },
       {
         "id": 19,
