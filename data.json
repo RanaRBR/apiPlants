@@ -184,7 +184,7 @@
       {
         "id": 19,
         "name": "Passiflore",
-        "description": "La passiflore est une plante grimpante exotique aux fleurs spectaculaires et parfumées, appréciée pour son feuillage dense et sa croissance rapide. Idéale pour couvrir un treillis, une pergola ou une clôture, elle apporte une touche tropicale aux jardins. Ses fleurs complexes, aux couleurs vibrantes et aux formes fascinantes, attirent les pollinisateurs comme les abeilles et les papillons. Elle produit également des fruits comestibles, appelés fruits de la passion, riches en saveur et en nutriments. La passiflore préfère les endroits ensoleillés avec un sol bien drainé et nécessite un arrosage régulier sans excès.",
+        "description": "La passiflore est une plante grimpante exotique aux fleurs spectaculaires et parfumées. Idéale pour couvrir un treillis ou une clôture, elle apporte une touche tropicale aux jardins. Elles attirent les pollinisateurs comme les abeilles et les papillons. Elle produit également des fruits comestibles, appelés fruits de la passion. La passiflore préfère les endroits ensoleillés avec un sol bien drainé et nécessite un arrosage régulier.",
         "size": { "small": 50, "large": 200 },
         "light": "plante de lumière",
         "category": "plante d'extérieur",
