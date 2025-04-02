@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Ficus lyrata",
-      "description": "Le Ficus lyrata, ou figuier lyre, est originaire des forêts tropicales d'Afrique de l'Ouest. Il est apprécié pour ses grandes feuilles vert foncé en forme de lyre. Cette plante nécessite une lumière indirecte vive et un arrosage modéré. Elle aide à purifier l'air intérieur en absorbant les toxines présentes dans l'environnement.",
+      "description": "le Ficus lyrata, ou figuier lyre, est originaire des forêts tropicales d'Afrique de l'Ouest. Il est apprécié pour ses grandes feuilles vert foncé en forme de lyre. Cette plante nécessite une lumière indirecte vive et un arrosage modéré. Elle aide à purifier l'air intérieur en absorbant les toxines présentes dans l'environnement.",
       "prices": {
         "Petite": 18,
         "Grande": 21.99
@@ -16,7 +16,7 @@
     {
       "id": 2,
       "name": "Monstera deliciosa",
-      "description": "Aussi appelée faux philodendron, la Monstera deliciosa est une plante tropicale originaire des forêts humides d'Amérique centrale. Ses grandes feuilles perforées lui permettent d'optimiser la lumière en milieu naturel. Elle apprécie un sol légèrement humide et un taux d'humidité élevé, parfait pour apporter une touche exotique à un intérieur.",
+      "description": "aussi appelée faux philodendron, la Monstera deliciosa est une plante tropicale originaire des forêts humides d'Amérique centrale. Ses grandes feuilles perforées lui permettent d'optimiser la lumière en milieu naturel. Elle apprécie un sol légèrement humide et un taux d'humidité élevé, parfait pour apporter une touche exotique à un intérieur.",
       "prices": {
         "Petite": 19.99,
         "Grande": 24.99
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "name": "Sansevieria",
-      "description": "Surnommée 'langue de belle-mère', la Sansevieria est une plante robuste originaire d'Afrique de l'Ouest. Elle est réputée pour sa capacité à tolérer des conditions de lumière variées et ses besoins en eau très faibles. Idéale pour les débutants, elle purifie également l'air en absorbant les toxines comme le benzène et le formaldéhyde.",
+      "description": "surnommée 'langue de belle-mère', la Sansevieria est une plante robuste originaire d'Afrique de l'Ouest. Elle est réputée pour sa capacité à tolérer des conditions de lumière variées et ses besoins en eau très faibles. Idéale pour les débutants, elle purifie également l'air en absorbant les toxines comme le benzène et le formaldéhyde.",
       "prices": {
         "Petite": 15.99,
         "Grande": 29.99
@@ -42,7 +42,7 @@
     {
       "id": 4,
       "name": "Cactus Euphorbia",
-      "description": "L'Euphorbia est un cactus fascinant, originaire d'Afrique et de Madagascar. Avec ses tiges épaisses et épineuses, il stocke l'eau pour survivre en milieu aride. Très résistant, il nécessite peu d'entretien et ajoute une touche exotique aux intérieurs.",
+      "description": "l'Euphorbia est un cactus fascinant, originaire d'Afrique et de Madagascar. Avec ses tiges épaisses et épineuses, il stocke l'eau pour survivre en milieu aride. Très résistant, il nécessite peu d'entretien et ajoute une touche exotique aux intérieurs.",
       "prices": {
         "Petite": 22.99,
         "Grande": 29.99
@@ -55,7 +55,7 @@
     {
       "id": 5,
       "name": "Aloe Vera",
-      "description": "L'Aloe Vera est une plante succulente aux propriétés médicinales exceptionnelles. Son gel est utilisé pour soigner les brûlures, hydrater la peau et favoriser la cicatrisation. Elle s'adapte facilement aux climats secs et nécessite peu d'arrosage.",
+      "description": "l'Aloe Vera est une plante succulente aux propriétés médicinales exceptionnelles. Son gel est utilisé pour soigner les brûlures, hydrater la peau et favoriser la cicatrisation. Elle s'adapte facilement aux climats secs et nécessite peu d'arrosage.",
       "prices": {
         "Petite": 14.99,
         "Grande": 21.99
@@ -68,7 +68,7 @@
     {
       "id": 6,
       "name": "Pilea Peperomioides",
-      "description": "Le Pilea Peperomioides, ou plante à monnaie chinoise, est une plante d'intérieur au feuillage rond et brillant. Elle est appréciée pour son aspect décoratif et sa facilité d'entretien. Elle préfère une lumière vive sans soleil direct et un arrosage modéré.",
+      "description": "le Pilea Peperomioides, ou plante à monnaie chinoise, est une plante d'intérieur au feuillage rond et brillant. Elle est appréciée pour son aspect décoratif et sa facilité d'entretien. Elle préfère une lumière vive sans soleil direct et un arrosage modéré.",
       "prices": {
         "Petite": 12.00,
         "Grande": 21.99
@@ -81,7 +81,7 @@
     {
       "id": 7,
       "name": "Dracaena Marginata",
-      "description": "Plante élégante au feuillage fin et dressé, le Dracaena Marginata est originaire de Madagascar. Elle est idéale pour purifier l'air intérieur et supporte bien les environnements secs. Cependant, elle nécessite une lumière indirecte et un arrosage modéré.",
+      "description": "plante élégante au feuillage fin et dressé, le Dracaena Marginata est originaire de Madagascar. Elle est idéale pour purifier l'air intérieur et supporte bien les environnements secs. Cependant, elle nécessite une lumière indirecte et un arrosage modéré.",
       "prices": {
         "Petite": 15.00,
         "Grande": 25.99
@@ -94,7 +94,7 @@
     {
       "id": 8,
       "name": "Calathea Orbifolia",
-      "description": "Avec ses feuilles larges et nervurées, la Calathea Orbifolia apporte une touche décorative unique. Elle aime l'humidité et un éclairage tamisé, ce qui la rend idéale pour les pièces peu lumineuses. Elle nécessite un arrosage régulier et un environnement sans courants d'air.",
+      "description": "avec ses feuilles larges et nervurées, la Calathea Orbifolia apporte une touche décorative unique. Elle aime l'humidité et un éclairage tamisé, ce qui la rend idéale pour les pièces peu lumineuses. Elle nécessite un arrosage régulier et un environnement sans courants d'air.",
       "prices": {
         "Petite": 14.99,
         "Grande": 32.99
@@ -107,7 +107,7 @@
     {
       "id": 9,
       "name": "Chlorophytum Comosum",
-      "description": "Aussi appelée plante araignée, cette plante est facile d'entretien et très résistante. Elle est connue pour purifier l'air en éliminant le monoxyde de carbone et autres polluants. Elle s'adapte bien à différentes conditions de lumière et pousse rapidement.",
+      "description": "aussi appelée plante araignée, cette plante est facile d'entretien et très résistante. Elle est connue pour purifier l'air en éliminant le monoxyde de carbone et autres polluants. Elle s'adapte bien à différentes conditions de lumière et pousse rapidement.",
       "prices": {
         "Petite": 14.99,
         "Grande": 28.99
@@ -120,7 +120,7 @@
     {
       "id": 10,
       "name": "Spathiphyllum",
-      "description": "Le 'Lys de la paix' est une plante d'intérieur très populaire grâce à ses fleurs blanches élégantes et sa capacité à purifier l'air. Elle préfère des conditions lumineuses sans soleil direct et un sol légèrement humide.",
+      "description": "le 'Lys de la paix' est une plante d'intérieur très populaire grâce à ses fleurs blanches élégantes et sa capacité à purifier l'air. Elle préfère des conditions lumineuses sans soleil direct et un sol légèrement humide.",
       "prices": {
         "Petite": 12.99,
         "Grande": 29.99
@@ -133,7 +133,7 @@
     {
       "id": 11,
       "name": "Lavande",
-      "description": "La lavande est une plante aromatique au parfum agréable, souvent utilisée dans les jardins pour repousser les insectes. Elle préfère une exposition en plein soleil et un sol bien drainé. Elle est idéale pour les zones sèches et ensoleillées.",
+      "description": "la lavande est une plante aromatique au parfum agréable, souvent utilisée dans les jardins pour repousser les insectes. Elle préfère une exposition en plein soleil et un sol bien drainé. Elle est idéale pour les zones sèches et ensoleillées.",
       "prices": {
         "Petite": 13.95,
         "Grande": 34.99
@@ -146,7 +146,7 @@
     {
       "id": 12,
       "name": "Jasmin",
-      "description": "Le jasmin est une plante grimpante aux fleurs parfumées, parfaite pour ajouter de l'odeur et de la beauté dans les jardins. Il préfère un sol léger et bien drainé, ainsi qu'un emplacement ensoleillé pour une floraison optimale.",
+      "description": "le jasmin est une plante grimpante aux fleurs parfumées, parfaite pour ajouter de l'odeur et de la beauté dans les jardins. Il préfère un sol léger et bien drainé, ainsi qu'un emplacement ensoleillé pour une floraison optimale.",
       "prices": {
         "Petite": 15.00,
         "Grande": 23.99
@@ -159,7 +159,7 @@
     {
       "id": 13,
       "name": "Hibiscus",
-      "description": "L'hibiscus est une plante tropicale appréciée pour ses magnifiques fleurs colorées. Il a besoin d'un sol bien drainé, d'un arrosage régulier et d'une exposition au soleil pour bien fleurir.",
+      "description": "l'hibiscus est une plante tropicale appréciée pour ses magnifiques fleurs colorées. Il a besoin d'un sol bien drainé, d'un arrosage régulier et d'une exposition au soleil pour bien fleurir.",
       "prices": {
         "Petite": 17.00,
         "Grande": 24.99
@@ -172,7 +172,7 @@
     {
       "id": 14,
       "name": "Rosier",
-      "description": "Les rosiers sont des arbustes fleuris classiques, idéal pour les jardins et les bacs extérieurs. Ils nécessitent un sol fertile, un arrosage modéré et une exposition au soleil pour favoriser leur floraison.",
+      "description": "les rosiers sont des arbustes fleuris classiques, idéal pour les jardins et les bacs extérieurs. Ils nécessitent un sol fertile, un arrosage modéré et une exposition au soleil pour favoriser leur floraison.",
       "prices": {
         "Petite": 12.55,
         "Grande": 28.99
@@ -185,8 +185,8 @@
 
     {
       "id": 15,
-      "name": "Fitonia",
-      "description": "La Fitonia est une plante tropicale aux feuilles nervurées distinctives, idéale pour apporter une touche de couleur en intérieur. Elle préfère une atmosphère humide et un éclairage tamisé.",
+      "name": "Fittonia",
+      "description": "la Fittonia est une plante tropicale aux feuilles nervurées distinctives, idéale pour apporter une touche de couleur en intérieur. Elle préfère une atmosphère humide et un éclairage tamisé.",
       "prices": {
         "Petite": 18.59,
         "Grande": 22.99
@@ -199,7 +199,7 @@
     {
       "id": 16,
       "name": "Geranium",
-      "description": "Le géranium est une plante vivace populaire, souvent cultivée pour ses fleurs colorées. Il préfère un sol bien drainé et une exposition au soleil pour fleurir abondamment.",
+      "description": "le géranium est une plante vivace populaire, souvent cultivée pour ses fleurs colorées. Il préfère un sol bien drainé et une exposition au soleil pour fleurir abondamment.",
       "prices": {
         "Petite": 18.00,
         "Grande": 31.99
@@ -225,7 +225,7 @@
     {
       "id": 18,
       "name": "Lavandula angustifolia",
-      "description": "Lavandula angustifolia, ou lavande vraie, est très appréciée pour son parfum enivrant et ses fleurs violettes. Elle est idéale pour les jardins ensoleillés et résiste bien à la chaleur et à la sécheresse.",
+      "description": "lavandula angustifolia, ou lavande vraie, est très appréciée pour son parfum enivrant et ses fleurs violettes. Elle est idéale pour les jardins ensoleillés et résiste bien à la chaleur et à la sécheresse.",
       "prices": {
         "Petite": 17.99,
         "Grande": 21.99
@@ -238,7 +238,7 @@
     {
       "id": 19,
       "name": "Passiflore",
-      "description": "La passiflore est une plante grimpante exotique aux fleurs spectaculaires et parfumées. Idéale pour couvrir un treillis ou une clôture, elle apporte une touche tropicale aux jardins. Elles attirent les pollinisateurs comme les abeilles et les papillons. Elle produit également des fruits comestibles, appelés fruits de la passion. La passiflore préfère les endroits ensoleillés avec un sol bien drainé et nécessite un arrosage régulier.",
+      "description": "la passiflore est une plante grimpante exotique aux fleurs spectaculaires et parfumées. Idéale pour couvrir un treillis ou une clôture, elle apporte une touche tropicale aux jardins. Elles attirent les pollinisateurs comme les abeilles et les papillons. Elle produit également des fruits comestibles, appelés fruits de la passion. La passiflore préfère les endroits ensoleillés avec un sol bien drainé et nécessite un arrosage régulier.",
       "prices": {
         "Petite": 18.98,
         "Grande": 28.99
@@ -251,7 +251,7 @@
     {
       "id": 20,
       "name": "Fuchsia",
-      "description": "Le fuchsia est une plante aux fleurs pendantes et colorées, idéale pour les jardins ombragés. Elle aime les sols frais et un emplacement à l'ombre ou en lumière indirecte.",
+      "description": "le fuchsia est une plante aux fleurs pendantes et colorées, idéale pour les jardins ombragés. Elle aime les sols frais et un emplacement à l'ombre ou en lumière indirecte.",
       "prices": {
         "Petite": 18.99,
         "Grande": 22.99
